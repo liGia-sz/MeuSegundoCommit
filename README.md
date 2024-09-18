@@ -1,5 +1,5 @@
 # MeuSegundoCommit
-##Comandos básicos para configuração e utilização do GIT
+### Comandos básicos para configuração e utilização do GIT
 
 **git config --global user.name:** Insere seu nome.
 
