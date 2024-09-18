@@ -1,0 +1,26 @@
+A ORIGEM DO GITHUB
+
+O GitHub foi fundado em 2008 por Tom Preston-Werner, Chris Wanstrath, PJ Hyett e Scott Chacon. Os fundadores criaram o GitHub para fornecer uma interface web para o Git, um sistema de controle de versão distribuído criado por Linus Torvalds em 2005.
+
+Antes do GitHub, desenvolvedores usavam o Git principalmente por meio da linha de comando. Os fundadores queriam simplificar o processo de colaboração e compartilhar código, criando uma plataforma que combinasse o poder do Git com uma interface amigável e funcionalidades sociais.
+
+PROPÓSITOS E FUNCIONALIDADES
+- Controle de Versão: O GitHub permite que desenvolvedores armazenem e gerenciem versões de seu código. Isso é essencial para o desenvolvimento colaborativo e para rastrear alterações ao longo do tempo.
+
+- Colaboração: Facilita o trabalho em equipe ao permitir que várias pessoas contribuam para o mesmo projeto. Funcionalidades como pull requests, revisões de código e gerenciamento de branches ajudam a coordenar o trabalho entre os desenvolvedores.
+
+- Código Aberto: O GitHub promove o conceito de código aberto, permitindo que projetos sejam compartilhados publicamente. Muitas comunidades de software livre e projetos de código aberto usam o GitHub para desenvolvimento e distribuição.
+
+- Ferramentas Adicionais: Além do controle de versão, o GitHub oferece funcionalidades como páginas de projetos, integração contínua, rastreamento de problemas e documentação. Ele também se integra a muitas outras ferramentas de desenvolvimento.
+
+EVOLUÇÃO
+- Crescimento: Desde seu lançamento, o GitHub cresceu exponencialmente. A plataforma tornou-se o maior serviço de hospedagem de código fonte, com milhões de repositórios públicos e privados.
+
+- Aquisição pelo Microsoft: Em 2018, o GitHub foi adquirido pela Microsoft por US$ 7,5 bilhões. A aquisição trouxe novas oportunidades e integrações com outras ferramentas da Microsoft, como o Visual Studio Code e o Azure.
+
+IMPACTO
+- Desenvolvimento de Software: O GitHub revolucionou a forma como os desenvolvedores colaboram e compartilham código. A popularização do modelo de desenvolvimento baseado em Git e a criação de uma comunidade global de desenvolvedores são algumas das suas maiores contribuições.
+
+- Educação e Comunidade: O GitHub também desempenha um papel importante na educação e na construção de comunidades ao redor de projetos de código aberto, fornecendo um espaço onde qualquer pessoa pode contribuir e aprender.
+
+O GitHub continua a ser uma ferramenta essencial para desenvolvedores de software em todo o mundo, promovendo colaboração, inovação e o compartilhamento de conhecimento.
