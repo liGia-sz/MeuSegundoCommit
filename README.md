@@ -23,7 +23,26 @@
 
 **git push:** Envia para a nuvem/GitHub
 
-### Atlhos de Teclado no GitBash
-**Ctrl U**
+### Atalhos de teclado existentes no BASH
+Alguns dos atalhos de teclado do BASH. Muitos mais podem ser encontrados na man page.
+
+- Apagar uma palavra: **Ctrl+W**
+- Apagar uma linha: **Ctrl+U**
+- Mover para o início da linha: **Ctrl+A**
+- Mover para o fim da linha: **Ctrl+E**
+- Mover para trás um caractere: **Ctrl+B**
+- Mover para trás uma palavra: **Alt+B**
+- Mover para frente um caractere: **Ctrl+F**
+- Mover para frente uma palavra: **Alt+F**
+- Excluir a partir do cursor até o começo da linha: **Ctrl+u**
+- Excluir a partir do cursor até o final da linha: **Ctrl+K**
+- Excluir a partir do cursor até o começo da palavra: **Ctrl+W**
+- Excluir palavra anterior: **Alt+Backspace**
+- Colar texto da área de transferência: **Ctrl+Y**
+- Limpar a tela deixando a linha atual no topo da janela: **Ctrl+L**
+- Pesquisa incremental inversa do histórico: **Ctrl+R**
+- Pesquisa não-incremental inversa do histórico: **Alt+P**
+
+
 
 
