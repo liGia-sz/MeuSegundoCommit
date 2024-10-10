@@ -24,14 +24,14 @@
 **git push:** Envia para a nuvem/GitHub
 
 **Códigos ANSI para cores**
--Preto: \033[0;30m
--Vermelho: \033[0;31m
--Verde: \033[0;32m
--Amarelo: \033[0;33m
--Azul: \033[0;34m
--Magenta: \033[0;35m
--Ciano: \033[0;36m
--Cinza: \033[0;37m
+- Preto: \033[0;30m
+- Vermelho: \033[0;31m
+- Verde: \033[0;32m
+- Amarelo: \033[0;33m
+- Azul: \033[0;34m
+- Magenta: \033[0;35m
+- Ciano: \033[0;36m
+- Cinza: \033[0;37m
 
 **Cores em negrito**
 - Preto (negrito): \033[1;30m
