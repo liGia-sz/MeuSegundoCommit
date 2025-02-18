@@ -1,7 +1,7 @@
 # MeuSegundoCommit
 ### Comandos básicos para configuração e utilização do GIT
 
-´´´cmdkey /delete:LegacyGeneric:target=git:https://github.com´´´ : Remove Logins anteriores de alguém no Git Bash
+```cmdkey /delete:LegacyGeneric:target=git:https://github.com``` : Remove Logins anteriores de alguém no Git Bash
 
 **git config --global user.name:** Insere seu nome.
 
