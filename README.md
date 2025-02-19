@@ -1,5 +1,5 @@
-# MeuSegundoCommit
-### Comandos básicos para configuração e utilização do GIT
+# Meu Segundo Commit
+## 👩‍💻 Comandos básicos para configuração e utilização do GIT
 
 **```cmdkey /delete:LegacyGeneric:target=git:https://github.com```**: Remove Logins anteriores de alguém no Git Bash
 
@@ -23,31 +23,7 @@
 
 **```git push```**: Envia para a nuvem/GitHub
 
-## Códigos ANSI para cores em C#
-- Preto: \033[0;30m
-- Vermelho: \033[0;31m
-- Verde: \033[0;32m
-- Amarelo: \033[0;33m
-- Azul: \033[0;34m
-- Magenta: \033[0;35m
-- Ciano: \033[0;36m
-- Cinza: \033[0;37m
-
-**Cores em negrito**
-- Preto (negrito): \033[1;30m
-- Vermelho (negrito): \033[1;31m
-- Verde (negrito): \033[1;32m
-- Amarelo (negrito): \033[1;33m
-- Azul (negrito): \033[1;34m
-- Magenta (negrito): \033[1;35m
-- Ciano (negrito): \033[1;36m
-- Branco (negrito): \033[1;37m
-
-**Resetar a cor**
-Para resetar a cor de volta ao padrão:
-      - Resetar: \033[0m
-
-### Atalhos de teclado existentes no BASH
+### 🕳️ Atalhos de teclado existentes no BASH
 Alguns dos atalhos de teclado do BASH. Muitos mais podem ser encontrados na man page.
 
 - Apagar uma palavra: **Ctrl+W**
@@ -67,6 +43,26 @@ Alguns dos atalhos de teclado do BASH. Muitos mais podem ser encontrados na man 
 - Pesquisa incremental inversa do histórico: **Ctrl+R**
 - Pesquisa não-incremental inversa do histórico: **Alt+P**
 
+## 👩‍💻 Códigos ANSI para cores em C#
+- Preto: \033[0;30m
+- Cinza: \033[0;37m
+- Azul: \033[0;34m
+- Ciano: \033[0;36m
+- Verde: \033[0;32m
+- Amarelo: \033[0;33m
+- Vermelho: \033[0;31m
+- Magenta: \033[0;35m
 
+**Cores em negrito**
+- 🎱**Preto (negrito): \033[1;30m**
+- ☁️**Branco (negrito): \033[1;37m**
+- 🌀**Azul (negrito): \033[1;34m**
+- 🎽**Ciano (negrito): \033[1;36m**
+- 📗**Verde (negrito): \033[1;32m**
+- ☀️**Amarelo (negrito): \033[1;33m**
+- ❤️**Vermelho (negrito): \033[1;31m**
+- 🌸**Magenta (negrito): \033[1;35m**
 
-
+**Resetar a cor**
+Para resetar a cor de volta ao padrão:
+- ```Resetar: \033[0m```
