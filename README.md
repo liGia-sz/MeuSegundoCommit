@@ -3,9 +3,9 @@
 
 ```cmdkey /delete:LegacyGeneric:target=git:https://github.com``` : Remove Logins anteriores de alguém no Git Bash
 
-**git config --global user.name:** Insere seu nome.
+```git config --global user.name"Your Name Here"```: Insere seu nome.
 
-**git config --global user.email seu.email@gmail.com:** Insere seu email.
+**```git config --global user.email seu.email@gmail.com```**: Insere seu email.
 
 **git init:** Inicializa um novo repositório.
 
