@@ -53,7 +53,7 @@ Alguns dos atalhos de teclado do BASH. Muitos mais podem ser encontrados na man 
 - Vermelho: \033[0;31m
 - Magenta: \033[0;35m
 
-**Cores em negrito**
+### Cores em negrito
 - 🎱**Preto (negrito): \033[1;30m**
 - ☁️**Branco (negrito): \033[1;37m**
 - 🌀**Azul (negrito): \033[1;34m**
